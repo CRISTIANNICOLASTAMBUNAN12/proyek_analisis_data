@@ -139,7 +139,7 @@ st.write(
 )
 
 # Load data dari file Excel
-df = pd.read_excel("workhome.xlsx")
+df = pd.read_excel("data/workhome.xlsx")
 
 # Ganti nama kolom menjadi huruf kecil untuk konsistensi
 df.columns = df.columns.str.lower()
