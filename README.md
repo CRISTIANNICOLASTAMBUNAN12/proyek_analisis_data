@@ -1,13 +1,17 @@
 Analisis Penyaluran Kredit - Aplikasi Streamlit
+
 Ini adalah aplikasi Streamlit yang menganalisis dan memvisualisasikan data terkait Penyaluran Kredit. Aplikasi ini menyediakan berbagai analisis statistik, visualisasi, dan wawasan berdasarkan data yang dimuat dari file Excel.
 
 Fitur
 Statistik deskriptif dari data penyaluran kredit.
+
 Analisis nilai yang hilang (missing values).
+
 Visualisasi seperti grafik batang, plot sebar, heatmap, dan plot geografis.
+
 Filter interaktif berdasarkan provinsi.
-Persyaratan
-Untuk menjalankan aplikasi ini, Anda perlu menginstal dependensi yang diperlukan. Ini termasuk pustaka untuk manipulasi data, visualisasi, dan Streamlit untuk membangun aplikasi web.
+
+Persyaratan Untuk menjalankan aplikasi ini, Anda perlu menginstal dependensi yang diperlukan. Ini termasuk pustaka untuk manipulasi data, visualisasi, dan Streamlit untuk membangun aplikasi web.
 
 Pustaka Python yang Dibutuhkan
 pandas: Untuk menangani data.
